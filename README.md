@@ -1,2 +1,0 @@
-# harizhabibie.github.io
-aSDdC
