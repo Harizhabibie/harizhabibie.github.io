@@ -42,13 +42,13 @@ body {
   position: absolute;
   width: 270px;
   height: auto;
-  right: 110px;
+  right: -60px;
   top: 30px;
 }
 .chyeImg {
   display: fit;
   justify-content: center;
-  top: 90px;
+  top: 60px;
   left: 100px;
   position: absolute;
   width: 320px;
