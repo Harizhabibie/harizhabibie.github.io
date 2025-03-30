@@ -46,11 +46,11 @@ body {
   top: 30px;
 }
 .chyeImg {
-  display: small;
+  display: flex;
   justify-content: center;
   top: 32px;
   left: 38px;
-  position: absolute;
+  position: ;
   width: 28px;
   height: auto;
   z-index: 1;
