@@ -48,8 +48,8 @@ body {
 .chyeImg {
   display: flex;
   justify-content: center;
-  top: 32px;
-  left: 38px;
+  top: 132px;
+  left: 138px;
   position: absolute;
   width: 100px;
   height: auto;
