@@ -1,5 +1,5 @@
 body {
-  background-color: khaki;
+  background-color: soft brown;
 }
 .body {
   display: flex;
@@ -48,7 +48,7 @@ body {
 .chyeImg {
   display: flex;
   justify-content: center;
-  top: 132px;
+  top: 32px;
   left: 38px;
   position: absolute;
   width: 28px;
