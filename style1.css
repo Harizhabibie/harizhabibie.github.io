@@ -32,7 +32,7 @@ body {
 .bdHat {
   width: 140px;
   height: auto;
-  top: 8%;
+  top: 15%;
   left: 8%;
   transform: rotate(-30deg);
   position: absolute;
@@ -42,7 +42,7 @@ body {
   position: absolute;
   width: 270px;
   height: auto;
-  right: -110px;
+  right: 110px;
   top: 30px;
 }
 .chyeImg {
