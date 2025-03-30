@@ -45,13 +45,13 @@ body {
   right: -10px;
   top: 30px;
 }
-.maiImg {
+.chyeImg {
   display: flex;
   justify-content: center;
   top: 132px;
   left: 38px;
   position: absolute;
-  width: 280px;
+  width: 28px;
   height: auto;
   z-index: 1;
 }
