@@ -46,7 +46,7 @@ body {
   top: 30px;
 }
 .chyeImg {
-  display: flex;
+  display: fit;
   justify-content: center;
   top: 132px;
   left: 138px;
